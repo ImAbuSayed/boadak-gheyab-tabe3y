@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/boadak-gheyab-tabe3y/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Boadak Gheyab Tabe3y](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Boadak Gheyab Tabe3y](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
