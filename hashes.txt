@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Boadak Gheyab Tabe3y
+
+This log tracks the cryptographic history and versioning for the song **Boadak Gheyab Tabe3y** (boadak-gheyab-tabe3y).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:00:14.892445 | `v1` | `b96a26818bf29dd5e3e3e7bff0dff0f38b8bb905538f502773ae33c6fa179884` | `5b9d71a9804bc1d940d88f99aee842c9abfe621675991a8ecd9d5188cd93349e` | `2026-05-08_boadak-gheyab-tabe3y-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
